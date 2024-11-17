@@ -33,6 +33,25 @@ The dataset includes detailed transaction information:
 
 ---
 
+## Key Questions Addressed
+What factors drive or hinder profitability in specific regions or countries?
+Which customers and products contribute the most to revenue?
+Where are demand-supply gaps that the business can exploit?
+What recommendations can improve overall performance?
+
+## Insights
+Profitability:
+1. Countries like South Africa and Egypt perform well, while Nigeria struggles due to high discounts and shipping costs.
+2. The Tables subcategory is the least profitable in Southeast Asia, particularly in Indonesia.
+High-Value Customers:
+Customers like Tamara Chand and Raymond Buch contribute significantly to profits.
+Market Gaps:
+Unmet demand in specific product categories, especially in rural areas and emerging markets.
+
+## Recommendations
+Optimize Discounts: Reduce excessive discounting in unprofitable regions like Nigeria.
+Revise Logistics: Lower shipping costs in regions with high expenses.
+
 ## Installation
 
 1. Clone the repository:
